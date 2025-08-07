@@ -2,7 +2,7 @@
 $GITHUB_USERNAME = "gabrielmacaubas"
 $GITHUB_EMAIL = "gabrielmacaubas@outlook.com"
 
-$SERVICE_NAME = "order"
+$SERVICE_NAME = "payment"
 $RELEASE_VERSION = "v1.2.3"
 
 # Instala o plugin do Protobuf para Go
